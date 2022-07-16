@@ -1,1 +1,1 @@
-Criei meu primeiro repositorio no github e conectei meu repositorio local ao repositorio remoto
+Criei meu primeiro repositorio no github e conectei meu repositório local ao repositorio remoto
