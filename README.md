@@ -1,5 +1,1 @@
-Meu segundo sistema no GIT
-
-Alterei para entender o exemplo
-
-uma linha nova como exemplo
+Criei meu primeiro repositorio no github e conectei meu repositorio local ao repositorio remoto
